@@ -1,0 +1,9 @@
+.my-alert-faild,
+.my-alert-success,
+.my-alert-already,
+#my-alert-required,
+#my-alert-success,
+#my-alert-incorrect {
+  display: none;
+}
+
